@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:Decrypter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ZipArchive">
+   </FileRef>
+   <FileRef
+      location = "group:Dog">
+   </FileRef>
+</Workspace>
