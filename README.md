@@ -1,5 +1,7 @@
 # Decrypter
 
+> for iOS user: https://github.com/Co2333/Iridium
+
 An easy way to decrypt UIKit app and export non-encrypted installer ipa file. Working on arm mac, iOS version coming soon.
 
 ![preview](./Workflow/main.png)
